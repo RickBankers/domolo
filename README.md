@@ -7,6 +7,8 @@
     <img src="assets/domolo.png" width="500">
   </p>
 
+## Customized by Rick Bankers for my needs
+
 A monitoring and logging solution for Docker hosts and containers with [Prometheus](https://prometheus.io/),
 [Grafana](http://grafana.org/), [Loki](https://github.com/grafana/loki/), [cAdvisor](https://github.com/google/cadvisor),
 [NodeExporter](https://github.com/prometheus/node_exporter) and alerting with
